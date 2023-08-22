@@ -1,3 +1,4 @@
+note from forker: this is goldsvet, so math yeah LOL XD
 # opensource-casino-v9
 Open source slots casino script (formely-Goldsvet) v9
 This is a laravel casino app, you need to download game packs for it.
